@@ -1,8 +1,13 @@
-<h>DAVE'S LINUX & PYTHON HOME LAB 
+<h>DAVE'S HOME LAB<h>
+
+<h2>PROJECTS COMPLETED:<h2>
+Created a virtualized home lab using a VirtualBox or VMware. Installed different operating systems (Kali Linux, Ubuntu) and configure a simulated network. This project demonstrates your ability to set up and manage basic IT infrastructure and troubleshoot common issues in a controlled environment.
+Domain Controller - Active Directory
 
 Learning Python using Kali &amp; Ubuntu all inside a Oracle Virtual Box.
 
- ### [YouTube Demonstration](https://youtube/Dave-theexplorer)
+<h2>CERTIFICATIONS<h2>
+Google Cybersecurity Professional Certificate
 
 <h2>Description</h2>
 Project consists of a process of installing a virtual machines for the process of installing kali Linux, UbuntuPy to a Ptyhon Lab and PowerShell simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
