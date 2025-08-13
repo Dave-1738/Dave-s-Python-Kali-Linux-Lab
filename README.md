@@ -19,6 +19,8 @@ Project consists of a process of installing a virtual machines for the process o
 - <b>PowerShell</b> 
 - <b>Python</b>
 - <b>Linux</b>
+- <b>Virtualbox</b>
+- <B>Windows Server 2019</b>
 
 <h2>Environments Used </h2>
 
@@ -27,8 +29,8 @@ Project consists of a process of installing a virtual machines for the process o
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Launch the utility: <b>
+<img width="1366" height="768" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/126e3bfb-a8c8-4150-97a1-8234651a29ca" />
 
 
 
